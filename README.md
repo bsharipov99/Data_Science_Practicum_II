@@ -76,6 +76,11 @@ View the Results
 
 ![](Images/result.png)
 
+
+## Conclusion 
+Our initial goal for this project was to use machine learning to automatically color a big dataset of black and white photographs, which we feel we accomplished. However, our models performed better than the goal values in certain cases. Our model performed a good job of turning black and white images into more lifelike pictures in terms of light contrast and full colorization.
+
+
 ## References
 
 GitHub. n.d. _GitHub - NVlabs/ffhq-dataset: Flickr-Faces-HQ Dataset (FFHQ)_. [online] Available at: \&lt;https://github.com/NVlabs/ffhq-dataset\&gt; [Accessed 1 December 2021].
